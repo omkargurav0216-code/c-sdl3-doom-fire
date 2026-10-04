@@ -1,0 +1,9 @@
+# VS Code
+.vscode/
+
+# MSYS2
+*.dll
+
+# # Build output
+# framebuffer
+# framebuffer.exe
